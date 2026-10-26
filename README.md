@@ -34,7 +34,7 @@ Welcome to my comprehensive repository for **Cyber Security**! This repository c
 ---
 
 ## 👨‍💻 Author
-* **Akash Kumar**
+* **RED DOT [RD]**
 
 ---
 ⭐ *If you find these notes helpful for your cybersecurity journey, feel free to give this repository a star!*
